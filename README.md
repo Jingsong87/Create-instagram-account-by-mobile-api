@@ -31,6 +31,8 @@ put your proxy list in `proxies.txt` http://ip:port or enter it in the script if
 ```
 $ python -m pip install smsactivate
 $ python reg.py
+$ python reg.py
+$ python reg.py
 ```
 
 
